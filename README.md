@@ -7,7 +7,7 @@
 
       git clone https://github.com/nishant-Tiwari24/briefcase.git
 
-+ Install IPFS Desktop Client
++ Install and run IPFS Desktop Client
 
 + install necessary packages for client
 
@@ -24,9 +24,18 @@
       cd blockchain
       yarn
 
-+ running the project
++ running the client
       Make sure to run the IPFS desktop client
 
       cd client
       yarn dev
++ running the server
+
+        cd server
+        node server
++ running the chat server
+
+        cd chat
+        node index
+  
       
