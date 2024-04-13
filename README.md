@@ -31,11 +31,11 @@
       yarn dev
 + running the server
 
-        cd server
-        node server
+      cd server
+      node server
 + running the chat server
 
-        cd chat
-        node index
+      cd chat
+      node index
   
       
